@@ -139,3 +139,5 @@ cython_debug/
 
 # This repo
 data/
+*.joblib
+*.png
